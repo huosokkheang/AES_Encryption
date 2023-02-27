@@ -1,6 +1,7 @@
 # AES_Encryption
 Doc: https://huosokkheang.github.io/Solo-Framework
 
+<pre>
 public static void main(String[] args) throws Exception {
   String input = "I Love Cambodia";
   String encrypt = Encrypt(input);
@@ -9,3 +10,4 @@ public static void main(String[] args) throws Exception {
   System.out.println("Encryption = " + encrypt);
   System.out.println("Decryption = " + decrypt);
 }
+</pre>
